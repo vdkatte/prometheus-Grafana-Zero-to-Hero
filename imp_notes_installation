@@ -1,4 +1,10 @@
 #Prometheus and grafana installation steps using Helmchart
 https://www.coachdevops.com/2022/05/how-to-setup-monitoring-on-kubernetes.html
 
-https://www.youtube.com/watch?v=C38dT0Kt3zs     //youtube Channel above step
+#youtube video reference just above steps 
+https://www.youtube.com/watch?v=C38dT0Kt3zs     
+
+# installation on EC2 instance Prometheous and Grafana without Helm 
+https://devops4solutions.com/monitoring-using-prometheus-and-grafana-on-aws-ec2/  
+#youtube video reference just above steps 
+https://www.youtube.com/watch?v=OuQ2bdpejjk
